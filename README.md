@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:101510,50:16251C,100:101510&text=Sarfaraz%20Uddin&fontColor=E8F5E9&fontSize=48&fontAlignY=42&desc=Frontend%20Developer%20%7C%20Building%20for%20the%20Web&descSize=15&descAlignY=61&animation=fadeIn" width="100%" alt="Sarfaraz Uddin — Frontend Developer" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:101510,50:16251C,100:101510&text=Sarfaraz%20Uddin&fontColor=E8F5E9&fontSize=48&fontAlignY=42&desc=Frontend%20Developer%20%7C%20Building%20for%20the%20Web&descSize=15&descAlignY=61&animation=fadeIn" width="100%" alt="Mohammed Sarfaraz Uddin Nasser — Frontend Developer" />
 
 <a href="https://github.com/MohammedSarfaraz-droid">
   <img src="https://img.shields.io/badge/GitHub-MohammedSarfaraz--droid-171B19?style=flat-square&logo=github&logoColor=8FE3A5" alt="GitHub profile" />
